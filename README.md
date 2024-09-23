@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prayag Raj Mathuria</h1>
 <h3 align="center">Software Engineer | MERN Stack | Full Stack | JavaScript | Typescript | C++ | DSA | Fresher | B.Tech. CS Grad. 2024</h3>
 
-- 🔭 I’m currently working on [QuickBites](bit.ly/quickbites-site)
+- 🔭 I’m currently working on [QuickBites](https://bit.ly/quickbites-site)
 
 - 🌱 I’m currently learning **Spring Boot**
 
