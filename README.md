@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prayag07.mathuria@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/resume-prayag](bit.ly/resume-prayag)
+- 📄 Know about my experiences [bit.ly/resume-prayag](https://bit.ly/resume-prayag)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
